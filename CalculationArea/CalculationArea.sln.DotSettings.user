@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4c8a8658_002Db627_002D46ec_002Db175_002D4d5793e8aaa4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CircleTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::7D8B1428-DEA7-4C14-ACC5-1C8B6A5064BB::net8.0::CalculationArea.Tests.CircleTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::7D8B1428-DEA7-4C14-ACC5-1C8B6A5064BB::net8.0::CalculationArea.Tests.TriangleTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::7D8B1428-DEA7-4C14-ACC5-1C8B6A5064BB::net8.0::CalculationArea.Tests.RectangleTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

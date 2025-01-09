@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculationArea", "CalculationArea\CalculationArea.csproj", "{55468BFD-2F17-4D77-B45A-F5CC89BEE444}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculationArea.Tests", "CalculationArea.Tests\CalculationArea.Tests.csproj", "{7D8B1428-DEA7-4C14-ACC5-1C8B6A5064BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55468BFD-2F17-4D77-B45A-F5CC89BEE444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55468BFD-2F17-4D77-B45A-F5CC89BEE444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55468BFD-2F17-4D77-B45A-F5CC89BEE444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55468BFD-2F17-4D77-B45A-F5CC89BEE444}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D8B1428-DEA7-4C14-ACC5-1C8B6A5064BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D8B1428-DEA7-4C14-ACC5-1C8B6A5064BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D8B1428-DEA7-4C14-ACC5-1C8B6A5064BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D8B1428-DEA7-4C14-ACC5-1C8B6A5064BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

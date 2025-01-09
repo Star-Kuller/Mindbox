@@ -1,0 +1,11 @@
+C:\Work\Mindbox\CalculationArea\CalculationArea\obj\Debug\net8.0\CalculationArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Mindbox\CalculationArea\CalculationArea\obj\Debug\net8.0\CalculationArea.AssemblyInfoInputs.cache
+C:\Work\Mindbox\CalculationArea\CalculationArea\obj\Debug\net8.0\CalculationArea.AssemblyInfo.cs
+C:\Work\Mindbox\CalculationArea\CalculationArea\obj\Debug\net8.0\CalculationArea.csproj.CoreCompileInputs.cache
+C:\Work\Mindbox\CalculationArea\CalculationArea\bin\Debug\net8.0\CalculationArea.deps.json
+C:\Work\Mindbox\CalculationArea\CalculationArea\bin\Debug\net8.0\CalculationArea.dll
+C:\Work\Mindbox\CalculationArea\CalculationArea\bin\Debug\net8.0\CalculationArea.pdb
+C:\Work\Mindbox\CalculationArea\CalculationArea\obj\Debug\net8.0\CalculationArea.dll
+C:\Work\Mindbox\CalculationArea\CalculationArea\obj\Debug\net8.0\refint\CalculationArea.dll
+C:\Work\Mindbox\CalculationArea\CalculationArea\obj\Debug\net8.0\CalculationArea.pdb
+C:\Work\Mindbox\CalculationArea\CalculationArea\obj\Debug\net8.0\ref\CalculationArea.dll
