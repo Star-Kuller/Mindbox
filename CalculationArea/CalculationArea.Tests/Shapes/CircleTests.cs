@@ -1,6 +1,6 @@
 using CalculationArea.Shapes;
 
-namespace CalculationArea.Tests;
+namespace CalculationArea.Tests.Shapes;
 
 public class CircleTests
 {
